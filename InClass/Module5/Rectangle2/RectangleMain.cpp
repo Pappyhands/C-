@@ -21,6 +21,7 @@ int main()
 	
 	r = r+5;
 	r++;
+	cout << "After: " << r << endl;
 	r = r-3;
 	r--;
 	
